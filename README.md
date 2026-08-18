@@ -34,7 +34,7 @@ Proyecto final del Bootcamp de Ciencia de Datos. Modelo de Machine Learning para
 
 ```bash
 pip install -r requirements.txt
-python credit_risk_pipeline.py
+proyecto_crediticio.py
 ```
 
 Esto genera el dataset, los gráficos y el resumen de resultados en las carpetas `data/`, `plots/` y `outputs/`.
