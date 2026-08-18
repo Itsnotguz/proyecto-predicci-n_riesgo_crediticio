@@ -4,7 +4,7 @@ Proyecto final del Bootcamp de Ciencia de Datos. Modelo de Machine Learning para
 
 ## Contenido
 
-- `credit_risk_pipeline.py` — pipeline completo: generación de datos, EDA, preprocesamiento, entrenamiento y evaluación de modelos.
+- `proyecto_crediticio` — pipeline completo: generación de datos, EDA, preprocesamiento, entrenamiento y evaluación de modelos.
 - `data/clientes_credito.csv` — dataset de clientes (se genera automáticamente al correr el script).
 - `plots/` — gráficos de EDA y evaluación (se generan automáticamente).
 - `outputs/resumen_resultados.json` — resumen de métricas (se genera automáticamente).
